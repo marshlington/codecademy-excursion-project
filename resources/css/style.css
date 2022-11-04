@@ -21,3 +21,10 @@
 #header-container p a{
     color: aquamarine;
 }
+
+/* Video section stylings */
+
+#video-container {
+    display: flex;
+    justify-content: center;
+}
