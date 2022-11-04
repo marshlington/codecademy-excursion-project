@@ -1,0 +1,23 @@
+
+/* Universal Styles */
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    font-weight: normal;
+}
+
+/* Header stylings */
+
+#header-container {
+    text-align: center;
+}
+
+#header-container h1 {
+    color: white;
+    font-size: 3.125rem;
+}
+
+#header-container p a{
+    color: aquamarine;
+}
