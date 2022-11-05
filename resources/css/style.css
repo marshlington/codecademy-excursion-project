@@ -1,5 +1,5 @@
 
-/* Universal Styles */
+/* Universal Styles */ /* Universal Styles */ /* Universal Styles */
 
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -7,7 +7,7 @@
     font-weight: normal;
 }
 
-/* Header stylings */
+/* Header stylings */ /* Header stylings */ /* Header stylings */
 
 #header-container {
     text-align: center;
@@ -22,9 +22,47 @@
     color: aquamarine;
 }
 
-/* Video section stylings */
+
+/* Video section stylings */ /* Video section stylings */ /* Video section stylings */
 
 #video-container {
     display: flex;
     justify-content: center;
+}
+
+
+/*Main content section*/ /*Main content section*/ /*Main content section*/
+
+#main-content-section div{
+    width: 65%;
+    text-align: center;
+    margin-top: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main-content-section h2 {
+    color: white;
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+#main-content-section p {
+    color: gray;
+    font-size: 1.3125rem;
+}
+
+#main-content-section-outro-text p a{
+    color: aquamarine;
+    font-size: 1rem;
+}
+
+
+/* Footer Section */ /* Footer Section */ /* Footer Section */
+
+#page-footer {
+    color: gray;
+    text-align: right;
+    display: inline;
+    font-size: 1.3125rem;
 }
